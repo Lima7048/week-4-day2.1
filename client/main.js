@@ -1,4 +1,4 @@
-// const messageForm = document.querySelector("#messageForm");
+const messageForm = document.querySelector("#messageForm");
 const form = document.getelementbyid("form");
 
 function handleSubmitMessageForm(event) {
